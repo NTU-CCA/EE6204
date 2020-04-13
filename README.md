@@ -14,7 +14,7 @@
 |Topic - 06|Chapman-Kolmogorov Equation|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
 |Topic - 07|Continuous Time Markov Chain|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
 |Topic - 08|Kolmogorov Differential Equation|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
-|Topic - 09|Birth-Death process|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
+|Topic - 09|Birth-Death Process|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
 |Topic - 10|Queues|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
 |Topic - 11|Little’s Result|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
 |Topic - 12|M/M/1 Queue|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part1_1.pdf)]|Prof. [Jia Yiing Wong](https://www.ntu.edu.sg/home/elpchau/)
