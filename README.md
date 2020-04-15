@@ -26,7 +26,7 @@
 |Lecture - 04|Optimization Techniques|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
 |**Part 3**|
 |Lecture - 01|Decision Making under Certainty|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
-|Lecture - 01|Decision Making under Risk|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
-|Lecture - 01|Decision Making under Uncertainty|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
+|Lecture - 02|Decision Making under Risk|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
+|Lecture - 03|Decision Making under Uncertainty|[[Slide](https://github.com/NTU-CCA/EE6401/blob/master/Slides/EE6401_Part2_Appendix_Linear_Algebra.pdf)]|Prof. [Danwei Wang](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EDWWANG)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
