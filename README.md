@@ -6,6 +6,11 @@
 
 Linear, dynamic, and integer programming. Optimization Techniques. Random processes. Queuing models. Markov decision process.
 
+### Textbooks:
+
+- H. A. Taha, "Operations Research: An Introduction, 9th Edition", <i>Prentice Hall</i>, 2010.
+- M. L. Puterman, ""
+
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
 |**Part 1**|
