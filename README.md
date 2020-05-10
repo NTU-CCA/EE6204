@@ -9,7 +9,9 @@ Linear, dynamic, and integer programming. Optimization Techniques. Random proces
 ### Textbooks:
 
 - H. A. Taha, "Operations Research: An Introduction, 9th Edition", <i>Prentice Hall</i>, 2010.
-- M. L. Puterman, ""
+- M. L. Puterman, "Markov Decision Processes: Discrete Stochastic Dynamic Programming (Wiley Series in Probability and Statistics)", <i> John Wiley & Sons</i>, 2005.
+
+### Lecture Notes:
 
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
