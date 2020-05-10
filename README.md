@@ -4,7 +4,7 @@
 
 ### Content:
 
-Linear, dynamic, and integer programming. Optimization Techniques. Random processes. Queuing models. Markov decision process.
+Linear, Dynamic and Integer Programming. Optimization Techniques. Random Processes. Queuing Models. Markov Decision Process.
 
 ### Textbooks:
 
