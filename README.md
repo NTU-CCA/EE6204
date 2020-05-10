@@ -2,6 +2,10 @@
 |---|
 # EE6204 - Systems Analysis, Spring 2020
 
+### Content:
+
+Linear, dynamic, and integer programming. Optimization Techniques. Random processes. Queuing models. Markov decision process.
+
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
 |**Part 1**|
