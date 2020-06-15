@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/EE6401/blob/master/logo.png)|
 |---|
-# EE6204 - Systems Analysis, Spring 2020
+# EE6204 - Systems Analysis
 
 ### Content:
 
