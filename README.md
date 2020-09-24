@@ -18,12 +18,12 @@ Linear, Dynamic and Integer Programming. Optimization Techniques. Random Process
 - G. Christos and L. Stéphane, "Introduction to Discrete Event Systems," <i>Kluwer Academic</i>, Boston, 1999.
 - D. J. White, "Markov Decision Processes," <i>John Wiley</i>, New York, 1997.
 
-## Notes
+### Notes
 
 - [EE6204 Decision Making Note](https://github.com/NTU-CCA/EE6204/blob/master/Notes/EE6204%20Decision%20Making%20Note.pdf)
 - [EE6204 Random Process & Queuing Models Note](https://github.com/NTU-CCA/EE6204/blob/master/Notes/EE6204%20Random%20Process%20%26%20Queuing%20Models%20Note.pdf)
 
-## Solutions of Past-Year Exam Papers
+### Solutions of Past-Year Exam Papers
 
 - [AY 2018-2019](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202018-2019.pdf)
 - [AY 2017-2018](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202017-2018.pdf)
