@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE6401/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE6204 - Systems Analysis
 
 ### Content:
@@ -22,15 +22,5 @@ Linear, Dynamic and Integer Programming. Optimization Techniques. Random Process
 
 - [EE6204 Decision Making Note](https://github.com/NTU-CCA/EE6204/blob/master/Notes/EE6204%20Decision%20Making%20Note.pdf)
 - [EE6204 Random Process & Queuing Models Note](https://github.com/NTU-CCA/EE6204/blob/master/Notes/EE6204%20Random%20Process%20%26%20Queuing%20Models%20Note.pdf)
-
-### Solutions of Past-Year Exam Papers
-
-- [EE6204 AY 2018-2019](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202018-2019.pdf)
-- [EE6204 AY 2017-2018](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202017-2018.pdf)
-- [EE6204 AY 2016-2017](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202016-2017.pdf)
-- [EE6204 AY 2015-2016](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202015-2016.pdf)
-- [EE6204 AY 2014-2015](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202014-2015.pdf)
-- [EE6204 AY 2013-2014](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202013-2014.pdf)
-- [EE6204 AY 2012-2013](https://github.com/NTU-CCA/EE6204/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6204%202012-2013.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
